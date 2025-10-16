@@ -1,0 +1,17 @@
+# ---- Python build & cache ----
+__pycache__/
+
+# ---- Virtual environments ----
+.venv/
+
+# ---- Logs ----
+logs/
+
+# ---- Environment & secrets ----
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+
+# ---- Data File ----
+trade_data.json
+
